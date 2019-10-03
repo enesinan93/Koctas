@@ -66,13 +66,14 @@ Wordpress			------		6
 Magento				-		1
 
 
+
 Sertifika ve ödüllerim
 
 Proficiency (İngilizce)		=		79
 
 Ehliyet				=		B sınıfı
 
-Saraybosna kış festivali tasarım yarışması = 	1.si
+Saraybosna Kış Festivali Tasarım Yarışması = 	1.si
 
 
 
