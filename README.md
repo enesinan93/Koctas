@@ -69,7 +69,9 @@ Magento				-		1
 Sertifika ve ödüllerim
 
 Proficiency (İngilizce)		=		79
+
 Ehliyet				=		B sınıfı
+
 Saraybosna kış festivali tasarım yarışması = 	1.si
 
 
