@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body{ 
+overflow-x: hidden;
+font-family: 'Lato', sans-serif; 
+color: #505962; 
+background: url("../media/pattern.png");
+background-size: 300px;
+}
+
+ 
+.navbar{ 
+font-family: 'Lato', sans-serif; 
+text-transform: uppercase; 
+font-weight: 700; 
+font-size: .9rem; 
+background: #000000;
+}
+
+.navbar-brand img { 
+height: 3rem; 
+}
+
+.navbar-nav li {
+padding-right: 1.2rem; 
+}
+
+.navbar-dark .navbar-nav .nav-link{
+padding-top: .5rem; 
+color: #c5c8c9; 
+}
+
+.navbar-dark .navbar-nav .nav-link.active, 
+.navbar-dark .navbar-nav .nav-link:hover
+{
+color: #ec6e00; 
+}
+
+
+video::-webkit-media-controls {
+display:none !important;
+}
+
+.custom_1{
+position: relative;
+}
+
+
+.custom_2{
+position: relative;
+width: 100px;
+bottom: 100px;
+opacity: 0.6;
+}
+
+.custom_2:hover{
+opacity: 1;
+cursor:pointer;
+}
+
+.custom_3{
+padding-top: 40px;
+}
+
+
+
+@media only screen and (min-width: 768px) {  /*-- Sadece mobil harici 80px yukarı çıkarır --*/
+  .custom_3 {
+    margin-top: -83px;
+	
+	
+  }
+}
+
+.custom_4{
+
+
+}
+
+.custom_5{
+background: url("../media/mobile_home_bg2.png");
+background-size: auto;
+min-height: 950px;
+}
+
+.custom_6{
+font-family: "Arial Black", "sans-serif";
+margin-top: 150px;
+color: #c5c8c9;
+line-height: 75px;
+font-weight: 700;
+font-size: 3rem;
+margin-left: 30px;
+}
+
+.custom_7{
+font-family: "Arial", "sans-serif";
+font-weight: 400;
+}
+
+.custom_8{
+top: 170px;
+left: 80px;
+}
+
+@media only screen and (min-width: 600px) {
+  .custom_8{
+    left: 120px; 
+  }
+}
+
+@media only screen and (min-width: 700px) {
+  .custom_8{
+    left: 160px; 
+  }
+}
+
+.custom_8 img {
+width: 100px; opacity: 0.8;
+}
+
+.custom_8 img:hover {
+width: 100px; opacity: 1;
+}
+
+.custom_9{
+margin-top: 275px;
+}
+
+.col-4{
+padding-bottom: 40px;
+}
+
+.page-footer{
+background: #000000;
+color: #ffffff;
+min-height: 50px;
+}
+
+.custom_10{
+padding-top: 65px;
+}
+
+.custom_11{
+padding-top: 10px;
+}
+
+.text-monospace{
+font-size: 12px;
+}
+
+.custom_12{
+background: rgba(0, 0, 0, 0.8)!important; 
+min-height: 200px;
+margin-bottom: 30px;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 10px;
+padding-right: 10px;
+color: #ffffff;
+line-height: 25px;
+}
